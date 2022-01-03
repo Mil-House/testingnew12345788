@@ -12,11 +12,10 @@
 {
     header {
         /*height: 20px !important;*/ /*4.8rem*/ /*5.55rem 12px = 0.75rem*/
-        padding-top: 16px;
+        padding-top: 20px;
     }
 
     .banner {
-        margin-top: 4.7rem; /*4.7 rem*/
         padding-top: 16px;
     }
 }
