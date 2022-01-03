@@ -16,7 +16,8 @@
     }
 
     .banner {
-        margin-top: 5.7rem; /*4.7 rem*/
+        margin-top: 4.7rem; /*4.7 rem*/
+        padding-top: 16px;
     }
 }
 
